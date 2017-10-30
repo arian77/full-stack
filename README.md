@@ -1,5 +1,11 @@
 # Simple Social Media
 
+Simple social media
+
+- access it on <http://arian-fullstack.surge.sh/>
+- API on <https://backend-umbfpjokni.now.sh>
+
+
 ##Features
 
 ### Users
