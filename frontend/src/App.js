@@ -13,7 +13,7 @@ this.state={
   render() {
     return (
       <div id="container">
-        <p> {API_URL}</p>{" "}
+        <p> {API_URL}</p>
       </div>
     );
   }
