@@ -1,5 +1,14 @@
 # Simple Social Media
 
+##Features
+
+### Users
+
+- List all users
+
+### Posts
+
+- List all posts
 
 ##Frontend
 
