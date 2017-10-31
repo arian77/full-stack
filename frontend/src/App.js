@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 
+import Content from "./Content";
+
 const API_URL = "https://backend-umbfpjokni.now.sh";
 
 class App extends Component {
@@ -22,7 +24,7 @@ class App extends Component {
   render() {
     return (
       <div id="container">
-        <p> {JSON.stringify(this.state.data)}</p>
+        <Content data={this.state.data} />
       </div>
     );
   }
